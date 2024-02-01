@@ -1,3 +1,5 @@
+#daurziuerzfweoituweoitzwoeiurzweriutzert
+
 from mysql.connector import connection, Error
 from Wetterstation import Wetterstation
 from Wetterstationsbeobachter import Wetterstationsbeobachter
