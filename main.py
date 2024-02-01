@@ -6,7 +6,7 @@ from Wetterstationsbeobachter import Wetterstationsbeobachter
 from Innenbeobachter import Innenbeobachter
 from Aussenbeobachter import Aussenbeobachter
 from Autobeobachter import Autobeobachter
-
+#Japan 20.12.2044
 
 
 def main():
